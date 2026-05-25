@@ -1,0 +1,6 @@
+{
+  "name": "Doraemon Pomodoro",
+  "description": "An interactive, Doraemon-themed Pomodoro timer and task tracker with synthesized gadgets, retro sound effects, and Dorayaki milestones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
